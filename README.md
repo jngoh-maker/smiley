@@ -1,2 +1,0 @@
-# smiley
-play with bash
